@@ -10,7 +10,7 @@ import java.util.*;
 
 public class Deserialization {
     public static void main(String[] args) {
-        String path = "C:\\Users\\Asus\\IdeaProjects\\maventest\\src\\main\\resources\\input.csv.txt";
+        String path = "C:\\Users\\Asus\\IdeaProjects\\maventest\\src\\main\\resources\\input.csv";
         createEmployees(path).stream().forEach(System.out::println);
     }
     public static List<Employee> createEmployees(String path) {
