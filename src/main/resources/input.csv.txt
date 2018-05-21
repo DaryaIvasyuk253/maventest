@@ -1,0 +1,11 @@
+John,3500,24,Male,True
+Ben,2400,25,Male,False
+Lara,4500,22,Female,False
+Emily,8000,31,Female,True
+Liam,9500,46,Male,True
+Mark,10000,50,Male,False
+Emily,3500,23,Female,False
+Rachel,15500,32,Female,True
+Frederik,20000,36,Male,True
+John,8000,33,Male,False
+Joanne,6500,35,Female,True
